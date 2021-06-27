@@ -133,7 +133,7 @@
   </div>
    
   <div class="slider-content">
-    <h1>RO-RO Fast Transport</h1>
+    <h1>Rahul Kumar</h1>
     <p>Indian Railways has taken a substantial leap towards providing sustainable service to
           Truckers by offering </p>
           <a href="#" class=" btn-area">Contact Us</a>
