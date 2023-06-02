@@ -47,11 +47,15 @@
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-                    <div class="shop-cat-box">
+                     <div class="shop-cat-box">
                         <img class="img-fluid" src="img/about-3.jpg" alt="" />
                         <a class=" hvr-hover" href="#">transport</a>
                     </div>
                     <div class="shop-cat-box">
+                        <img class="img-fluid" src="img/about-3.jpg" alt="" />
+                        <a class=" hvr-hover" href="#">transport</a>
+                    </div>
+                   <div class="shop-cat-box">
                         <img class="img-fluid" src="img/about-3.jpg" alt="" />
                         <a class=" hvr-hover" href="#">transport</a>
                     </div>
