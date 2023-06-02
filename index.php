@@ -67,8 +67,8 @@
                     <input type="password" id="inputConfirmPassword" class="form-control" placeholder="Password" required>
                     <label for="inputConfirmPassword">Confirm password</label>
                   </div>
-                  
-                  <div class="custom-control custom-checkbox mb-3">
+                 
+                     <div class="custom-control custom-checkbox mb-3">
                     <input type="checkbox" class="custom-control-input" id="customCheck2">
                     <label class="custom-control-label" for="customCheck2">I Agree To The Terms & Conditions</label>
                   </div>
